@@ -1,5 +1,5 @@
 ## Introduction to Objects
-All programming languages provide abstraction.
+All programming languages provide abstraction.  
 What really matters is the kind and quality of abstraction. Kind implies "What is it that is being abstracted". 
 The Object-oriented approach allows the programmer to model the solution based on the problem space. The elemets of the problem state are known as "Objects" in the solution space. 
 As the book puts it 
